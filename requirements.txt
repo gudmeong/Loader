@@ -3,3 +3,4 @@ gitpython
 motor
 pyrofork
 python-dotenv
+async_pymongo
