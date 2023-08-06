@@ -1,4 +1,4 @@
-dnspython>=2.3.0
+dnspython
 gitpython
 motor
 pyrofork
