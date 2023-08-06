@@ -1,6 +1,6 @@
 dnspython==2.3.0
 gitpython
 motor
-pyrofork==2.2.5
+pyrofork
 python-dotenv
 async_pymongo
